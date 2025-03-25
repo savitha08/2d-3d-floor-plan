@@ -1,0 +1,12 @@
+opencv-python==4.9.0.80  # Latest compatible version for Python 3.12
+numpy==1.26.4  # Latest stable numpy version
+configparser==6.0.0  # Latest version
+future-fstrings==1.2.0  # No update available
+requests==2.31.0  # Latest version
+pyfiglet==0.8.post1  # Latest version
+setuptools==69.5.1  # Latest version
+scipy==1.13.0  # Latest version
+pillow==10.3.0  # Latest version
+matplotlib==3.8.4  # Latest version
+black==24.3.0  # Latest version
+pytest==8.1.1  # Latest version
